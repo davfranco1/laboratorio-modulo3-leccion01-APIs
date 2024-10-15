@@ -1,4 +1,4 @@
-Municipio,Latitud,Longitud,Nombre,Categoría,Distancia,Dirección
+Municipio,Latitud,Longitud,Nombre,Categoria,Distancia,Dirección
 acebeda-la,41.0869583,-3.624399,La Posada de los Vientos,restaurantes,36,"Calle Encerradero, 2, 28755 La Acebeda Comunidad de Madrid"
 acebeda-la,41.0869583,-3.624399,El Acebo,restaurantes,113,"Calle Puerto, 2, 28755 La Acebeda Comunidad de Madrid"
 acebeda-la,41.0869583,-3.624399,Bar la Plazuela,bares,127,"Plaza de la Plazuela, 8, 28755 La Acebeda Comunidad de Madrid"
@@ -459,16 +459,16 @@ cadalso-de-los-vidrios,40.3014283,-4.4408876,El Churrero,bares,134,"Calle de la 
 cadalso-de-los-vidrios,40.3014283,-4.4408876,Burger Nete,bares,240,"Calle Doctor Menéndez, 2, 28640 Cadalso de Los Vidrios Comunidad de Madrid"
 cadalso-de-los-vidrios,40.3014283,-4.4408876,Casa Laureano,bares,268,"Plaza Fuente de los Álamos, 3, 28640 Cadalso de Los Vidrios Comunidad de Madrid"
 cadalso-de-los-vidrios,40.3014283,-4.4408876,Bar Fangio,bares,362,"Carr. de Rozas de Puerto Real, 2, 28640 Cadalso de Los Vidrios Comunidad de Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Parque Arroyo Fresno,parques,400,"Arroyo Fresno, 13, Madrid Comunidad de Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Alba - Asociación Para la Liberación y el Bienestar Animal,parques,1864,"Camino del Carral, 32, 28816 Camarma de Esteruelas Comunidad de Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Pizzeria Fratelli,restaurantes,37,"Plaza del Paseo, 9, 28816 Camarma de Esteruelas Comunidad de Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Bar-Restaurante-Asador Casa Felicia,restaurantes,40,"Plaza del Paseo, 9, 28816 Camarma de Esteruelas Comunidad de Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Cafe Central,restaurantes,40,"Calle de Daganzo, 23, 28816 Camarma de Esteruelas Comunidad de Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Chocolateria de Juan,restaurantes,156,"Calle de la Mancha, 4, 28816 Camarma de Esteruelas Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Cenemos Inés,restaurantes,398,"Calle de los Alfareros, 4, 28816 Camarma de Esteruelas Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Cafetería el Rincón,restaurantes,492,"Calle de Daganzo, 23, 28816 Camarma de Esteruelas Comunidad de Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Federico Garcia Lorca,universidades,412,"Calle de la Huerta, 0 (Camarma De Esteruelas), 28816 Madrid Comunidad de Madrid"
-camarma-de-esteruelas,40.5490368,-3.3786211,Cafe Central,bares,40,"Calle de Daganzo, 23, 28816 Camarma de Esteruelas Comunidad de Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Parque Arroyo Fresno,parques,378,"Arroyo Fresno, 13, Madrid Comunidad de Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Alba - Asociación Para la Liberación y el Bienestar Animal,parques,1912,"Camino del Carral, 32, 28816 Camarma de Esteruelas Comunidad de Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Chocolateria de Juan,restaurantes,79,"Calle de la Mancha, 4, 28816 Camarma de Esteruelas Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Pizzeria Fratelli,restaurantes,86,"Plaza del Paseo, 9, 28816 Camarma de Esteruelas Comunidad de Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Bar-Restaurante-Asador Casa Felicia,restaurantes,111,"Plaza del Paseo, 9, 28816 Camarma de Esteruelas Comunidad de Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Cafe Central,restaurantes,111,"Calle de Daganzo, 23, 28816 Camarma de Esteruelas Comunidad de Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Cenemos Inés,restaurantes,362,"Calle de los Alfareros, 4, 28816 Camarma de Esteruelas Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Cafetería el Rincón,restaurantes,495,"Calle de Daganzo, 23, 28816 Camarma de Esteruelas Comunidad de Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Federico Garcia Lorca,universidades,459,"Calle de la Huerta, 0 (Camarma De Esteruelas), 28816 Madrid Comunidad de Madrid"
+camarma-de-esteruelas,40.5497252,-3.3785043,Cafe Central,bares,111,"Calle de Daganzo, 23, 28816 Camarma de Esteruelas Comunidad de Madrid"
 campo-real,40.3381881,-3.3813911,Rincón de Gorri,restaurantes,40,"Plaza Mayor, 10, 28510 Campo Real Comunidad de Madrid"
 campo-real,40.3381881,-3.3813911,El Pollo de la Abuela,restaurantes,47,"Carretera Villar del Olmo, 46, 28510 Campo Real Comunidad de Madrid"
 campo-real,40.3381881,-3.3813911,Aninca,restaurantes,57,"Calle Morata, 24, 28510 Campo Real Comunidad de Madrid"
@@ -1356,6 +1356,42 @@ molar-el,40.7347865,-3.584376,Pub Sombra & Luz,bares,430,"Ramón Gabriel, 20, 28
 molar-el,40.7347865,-3.584376,Cueva el Matador-Taberna Marinera,bares,448,"Calle de la Cuesta, 23, 28710 El Molar Comunidad de Madrid"
 molar-el,40.7347865,-3.584376,La Cueva de Krusty,bares,513,"Calle Santa Maria de la Cuesta, 58, 28710 El Molar Comunidad de Madrid"
 molar-el,40.7347865,-3.584376,La Terracita de Julia,bares,1639,"Calle San Isidro, 37, 28723 Pedrezuela Comunidad de Madrid"
+molinos-los,4.55,-74.1166667,Caseta para Perros No 2,parques,110,"Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Unidad de Servicio de Guías Caninos COMEB,parques,260,
+molinos-los,4.55,-74.1166667,Parque Marruecos,parques,509,"Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Parque Los Molinos Ii,parques,1025,"Carrera 5, Colombia, Huila"
+molinos-los,4.55,-74.1166667,Polideportivo Molinos II,parques,1334,
+molinos-los,4.55,-74.1166667,San Jorge Sur,parques,1852,
+molinos-los,4.55,-74.1166667,Parque Tunjuelito,parques,1884,"Carrera 14A (calle 54), Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Parque. Molinos,parques,18109,"Carrera 12 N. 113 - 06, Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Casino Picota,restaurantes,248,"Km 5 via a Usme, Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Pescaderia Costa Verde,restaurantes,327,
+molinos-los,4.55,-74.1166667,La Orilla,restaurantes,376,"Carrera 5n 26 B - 04, Bogotá"
+molinos-los,4.55,-74.1166667,Genjibre Y Simarron,restaurantes,428,"Tr 5 C 52 Sur-21, Bogotá"
+molinos-los,4.55,-74.1166667,San Marcos,restaurantes,528,"Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Brassa Marruecos,restaurantes,587,
+molinos-los,4.55,-74.1166667,Salsamentaria Yeimar,restaurantes,667,"Avenida 51 S 4-54 L-64, Bogotá, Bogotá, D.C."
+molinos-los,4.55,-74.1166667,Productos Natural Monsalve,restaurantes,685,"Diagonal 52B # 4H - 02, Bogotá, Cundinamarca"
+molinos-los,4.55,-74.1166667,Asadero Los Molinos,restaurantes,734,"Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Centro Mayor-Parrilla & Picaditas,restaurantes,827,"Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Liceo Luis Cardona Carvajal,universidades,240,"Km 5 Via Usme Bogotá, Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Colegio Distrital Marruecos y Molinos I.E.D.,universidades,308,"Calle 49 D Bis S 5 X 02 Bogotá, Bogotá"
+molinos-los,4.55,-74.1166667,Liceo Infantil Despertar,universidades,590,"Carrera 5 X 49 G 51 S, Bogotá, Bogotá, D.C."
+molinos-los,4.55,-74.1166667,Colegio Distrital Marruecos y Molinos I.E.D.,universidades,593,"Calle 49 D Bis S 5 X 02 Bogotá, Bogotá"
+molinos-los,4.55,-74.1166667,Teatro Sergio Villamizar Q.,universidades,700,"Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Liceo Santa Bárbara,universidades,770,"Escuela de Artillería kilómetro 3 via Usme, Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Colegio Fe y Alegria,universidades,792,
+molinos-los,4.55,-74.1166667,Instituto Integral Psicopedagogico,universidades,1038,"Calle 48 J Sur 5 H 08 Bogotá, Bogotá, Bogotá D.C."
+molinos-los,4.55,-74.1166667,Colegio Alfredo Iriarte Sede B,universidades,1110,
+molinos-los,4.55,-74.1166667,C.E.D. Rufino Jose Cuervo,universidades,1660,Cundinamarca
+molinos-los,4.55,-74.1166667,MASTER Bar Rock,bares,809,"Calle 51 S No. 5z - 46, Bogotá, Bogotá"
+molinos-los,4.55,-74.1166667,The Bunker Music Hall,bares,892,Calle 51 Sur # 5z-84
+molinos-los,4.55,-74.1166667,Tony Meola Bar,bares,895,Bogotá
+molinos-los,4.55,-74.1166667,Pachá Salsa Bar,bares,938,Calle 50a sur # 7-35
+molinos-los,4.55,-74.1166667,La Tola Bar,bares,990,
+molinos-los,4.55,-74.1166667,Grupo Carranguero y parrandero MELAO,bares,1009,"Carrera 4F 55-77 sur, Bogotá, Cundinamarca"
+molinos-los,4.55,-74.1166667,Disco Bar Alcatraz P,bares,1115,"Carrera 4 B 55 A-S 54, Bogotá"
+molinos-los,4.55,-74.1166667,El Rinconcito Tunjuelito,bares,1737,"Carrera 14 53 S-43, Bogotá"
 montejo-de-la-sierra,41.0593529,-3.530299,Panadería Nani,restaurantes,19,"Plaza Mayor, 3, 28190 Montejo de la Sierra Comunidad de Madrid"
 montejo-de-la-sierra,41.0593529,-3.530299,El Hayedo,restaurantes,105,"Travesía de Horcajuelo, 13, 28190 Montejo de la Sierra Comunidad de Madrid"
 montejo-de-la-sierra,41.0593529,-3.530299,Los Naranjos,restaurantes,233,"Calle del Real, 19, 28190 Montejo de la Sierra Comunidad de Madrid"

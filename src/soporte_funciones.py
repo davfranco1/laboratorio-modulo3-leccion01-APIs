@@ -17,12 +17,13 @@ def obtener_coordenadas(municipios):
     - dicc_coordenadas (dict): Diccionario con los nombres de los municipios como claves y sus respectivas coordenadas (latitud y longitud) como valores.
     """
 
+    geolocator = Nominatim(user_agent="my_app")
     dicc_coordenadas = {}
     
     for municipio in tqdm(municipios):
         location = geolocator.geocode(municipio)
         dicc_coordenadas[municipio] = ((location.latitude, location.longitude))
-        sleep(2)
+        sleep(1)
 
     return dicc_coordenadas
 
